@@ -15,7 +15,9 @@ Parts List
 An excell spreadsheet which contains a partslist of the components needed, as well as order codes and prices for Rapidonline.com
 
 I couldn't get a reasonably priced 820pF Ceramic Disc capacitor from Rapid so I placed two capacitors in parallell (C3 and C5) and I suggest you solder a 
-470pF and a 330pF in the space for them on the PCB. Alternaatively; if you do get an 820pF Capacitor just solder it into the C3 position
+470pF and a 330pF in the space for them on the PCB. Alternaatively; if you do get an 820pF Capacitor just solder it into the C3 position.
+
+As the minimum order for a PCB from JLPCB is 5, the order from Rapidonline.com has enough components to populate 5 circuit boards.
 
 For more information, please visit my blog 
 
