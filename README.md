@@ -6,7 +6,7 @@ In this entry you will find
 
 Eagle PCB files should you want to modify the circuit in any way
 
-Gerber files which JLPCB will accept
+A zipped file containing all the Gerber files which you can simply drag and drop on the JLPCB website (zxmod_2021-08-31.zip)
 
 Images of the PCB's and schematic
 
