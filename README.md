@@ -8,7 +8,9 @@ Eagle PCB files should you want to modify the circuit in any way
 
 A zipped file containing all the Gerber files which you can simply drag and drop on the JLPCB website (zxmod_2021-08-31.zip)
 
-Images of the PCB's and schematic
+Images of the PCB layouts and schematic
+
+An image of my populated V1 PCB (the one available for download here has the capacitors C3 and C5 in parallel on the bottom right hand side of the PCB)
 
 Parts List
 
